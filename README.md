@@ -1,4 +1,4 @@
-# LogBook_IVAO - Releases
+# Tracker - Releases
 
 Ce dépôt héberge uniquement les releases (installeur `.exe`) de **Tracker LogBook**, un outil de suivi de vol pour MSFS2020/X-PLANE/FSX avec ou sans IVAO/VATSIM intégré à la plateforme de Littoral Airlines.
 
