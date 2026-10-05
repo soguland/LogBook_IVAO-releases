@@ -1,4 +1,4 @@
-# Tracker
+# Tracker Littoral-Airlines
 
 Ce dépôt héberge uniquement les releases (installeur `.exe`) de **Tracker **, un outil de suivi de vol pour MSFS2020/X-PLANE/FSX avec ou sans IVAO/VATSIM intégré à la plateforme de Littoral Airlines.
 
